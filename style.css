@@ -1,0 +1,8 @@
+body {
+    background-color: lightblue;
+  }
+  #total{
+      position: relative;
+      text-align: center;
+      border-style: solid;
+  }
